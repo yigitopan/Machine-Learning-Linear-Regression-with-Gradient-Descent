@@ -1,4 +1,7 @@
+# Otto-von-Guericke University - Übung
+
 # MachineLearningLinearRegression
+
 Program calculates SSE and updating weight every step, uses batch gradient descent to update weights.
 
 No pandas, numpy or similar libraries are used to extract data from csv files.
